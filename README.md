@@ -5,7 +5,7 @@ You can get the acp commander jar from here: https://github.com/1000001101000/ac
 
 Finally
 
-	docker run -it buffalo-convert
+	docker run -it sebug/buffalo-convert
 
 And do what needs to be done.
 
